@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="coming-soon">
       <h1>DzFinance</h1>
-      <p>Coming Soon! Stay tuned for exciting updates.</p>
+      <p>Em breve! Fique atento para novidades emocionantes.</p>
     </div>
   )
 }
